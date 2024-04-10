@@ -22,7 +22,9 @@ Importação dos dados. <br> <br>
 ## Limpeza dos dados
 Como o DATASET esta em inglês, eu preferi fazer a limpeza dos dados e traduzir os dados das tabelas de dados importantes, que seriam utilizados no dashboard.
 
-TAMANHO:
+TAMANHO:<br> <br>
+![clean_size](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/931f1fa4-8161-41bf-a957-917c8d61ae20) <br> <br>
+CATEGORIA: <br> <br>
+![clean_category](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/5020bb52-ce3d-4836-acba-f360f8defe96)
 
-CATEGORIA:
 
