@@ -6,6 +6,7 @@ Qual sabor de pizza você pede com frequencia? Normalmente todos temos um sabor 
 
 ## 📁 Conjunto de dados
 O dataset utlizado neste projeto foi retirado do kaggle: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset/data<BR>
+<BR>
 Contem 48621 linhas com 21350 pedidos de diferentes tipos de pizza retirados do ano de 2015, os dados permitem visualização das datas e horario dos pedidos, preco, categoria e ingredientes.
 
 ## Preparação dos dados
