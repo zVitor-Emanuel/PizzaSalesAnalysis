@@ -34,7 +34,16 @@ CATEGORIA: <br> <br>
 ![result_queryrevenue](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/66836df3-a0fe-4647-99bf-4ef4cb6e750e)<br> <br>
 2. Preço Médio or pedidol<br> <br>
 ![query_avgprice](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/9099878f-9bb7-471b-8184-3b25e33eb4be)
-![result_avgprice](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/bec59bd8-8ba7-4225-990b-71a13c082504)
+![result_avgprice](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/bec59bd8-8ba7-4225-990b-71a13c082504)<br> <br>
+3. Quantidade de pizzas vendidas<br> <br>
+![query_qntpizza](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/c7d1e06a-ff43-4bfb-a059-bf164c34ce57)
+![result_qntpizza](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/d12eb8e5-b7da-4fac-b9e4-8f799f38173b)<br> <br>
+4. Numero de pedidos<br> <br>
+![query_numorder](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/13226d3a-95bb-45ef-84f3-0513d98925b1)
+![result_numorder](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/cadc02b0-fde9-4cf6-a345-54db4b15e5e2)<br> <br>
+
+
+
 
 
 
