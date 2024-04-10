@@ -12,9 +12,9 @@ Contem 48621 linhas com 21350 pedidos de diferentes tipos de pizza retirados do 
 ## Preparação dos dados
 
 Comecei criando um banco de dados para fazer nosso projeto. <br> <br>
-![create_database](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/668f06c3-248d-49bc-9a82-a92c308265c2) <br>
-Em seguida a criação da tabela para receber os dados.
-
+![create_database](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/668f06c3-248d-49bc-9a82-a92c308265c2) <br> <br>
+Em seguida a criação da tabela para receber os dados. <br> <br>
+![create_table](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/66649948-c0ba-4801-bc13-fe139a4c5dfa) <br> <br>
 Importação dos dados.
 
 ## Limpeza dos dados
