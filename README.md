@@ -27,4 +27,9 @@ TAMANHO:<br> <br>
 CATEGORIA: <br> <br>
 ![clean_category](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/5020bb52-ce3d-4836-acba-f360f8defe96)
 
+## Analise de dados
+# KPI - INDICADORES CHAVES DE DESEMPENHO
+1. Receita total<br> <br>
+![query_totalrevenue](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/3ae6ae7c-414e-467c-bde3-956ff74eac56)
+![result_queryrevenue](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/66836df3-a0fe-4647-99bf-4ef4cb6e750e)
 
