@@ -15,7 +15,9 @@ Comecei criando um banco de dados para fazer nosso projeto. <br> <br>
 ![create_database](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/668f06c3-248d-49bc-9a82-a92c308265c2) <br> <br>
 Em seguida a criação da tabela para receber os dados. <br> <br>
 ![create_table](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/66649948-c0ba-4801-bc13-fe139a4c5dfa) <br> <br>
-Importação dos dados.
+Importação dos dados. <br> <br>
+![data_import](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/dc511a16-d537-426b-bbef-659d2525756d)
+
 
 ## Limpeza dos dados
 Como o DATASET esta em inglês, eu preferi fazer a limpeza dos dados e traduzir os dados das tabelas de dados importantes, que seriam utilizados no dashboard.
