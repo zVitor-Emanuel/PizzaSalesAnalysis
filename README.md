@@ -81,6 +81,12 @@ Cada linha da tabela é referente há um tipo de pizza, sendo assim, quando tive
 A formula faz a contagem de acordo com o numero de vezes que o numero aparece na coluna id_pedido e dividinho 1 pela formula, recebemos os valores para ocasionar 1 unico pedido.<br> <br>
 ![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/7bcf398b-d528-4c0e-b8d4-328f4a42d032)
 ![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/5e567675-7b9a-409f-b7f2-ada428db05ba)
+3. Utilizei uma tabela dinâmica no excel para fazer o KPI <br> <br>
+![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/e6ef2826-666d-4171-b660-094d4f3a0e55)<br> <br>
+
+## Dashboard
+
+
 
 
 
