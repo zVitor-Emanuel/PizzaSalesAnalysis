@@ -88,6 +88,10 @@ A formula faz a contagem de acordo com o numero de vezes que o numero aparece na
 Utilizei todos os insights retirados das querys do mysql e construi um dashboard com gráfico para melhor visualização final.<br> <br>
 ![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/418372f2-3b11-489f-8327-47c4469c609f)
 
+### Dashboard Interativo:
+https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/97bf69d5-3270-4f70-88cf-0bd103451bfd
+
+
 
 
 
