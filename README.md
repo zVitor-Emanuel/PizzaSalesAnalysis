@@ -50,6 +50,25 @@ CATEGORIA: <br> <br>
 1. Pedidos por dia da semana <br> <br>
 ![q_p_por_dia_semana](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/1e548d36-5ff0-43fc-b1b9-278e86c72861) <br> <br>
 ![p_por_dia_semana_r](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/248bcd24-5b35-4cc2-a566-9a0e82821931)<br> <br>
+2. Horario dos Pedidos<br> <br>
+![2_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/4fe0fda7-823b-4da6-9106-357788d017d4)<br> <br>
+![2_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/03deb8c3-1b35-42f3-9e4c-a1b6870e2b80)<br> <br>
+3. Porcentagem de Vendas por categoria de pizza durante os meses<br> <br>
+![3_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/016a6f9d-8f61-47b5-a931-983fae62d539)<br> <br>
+![3_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/6845bbf2-d8c7-4c49-80d0-9a4f455be01d)<br> <br>
+4. Porcentagem de vendas por tamanho da pizza no trimestre.<br> <br>
+![4_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/521241a9-d0d5-4b9a-8257-5040cb1834b4)<br> <br>
+![4_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/4c26e248-ac32-4704-b9aa-1d750ccf0545)<br> <br>
+5. Total de pizzas vendidas por categoria<br> <br>
+![5_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/58bdf32d-96fc-4804-9b64-3fb3af4f9f6a)<br> <br>
+![5_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/16d875a7-7313-4afc-81f3-9e6e3a406fee)<br> <br>
+6. As 5 pizzas  mais vendidas<br> <br>
+![6_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/eb12f212-d344-466f-9402-3f22ba50aa04)<br> <br>
+![6_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/5ebf7ed2-16fe-4097-8202-c227421006b9)<br> <br>
+7. Pizzas menos vendidas<br> <br>
+![7_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/61242d5e-d96a-4acc-a324-944451e733cf)<br> <br>
+![7_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/59830b36-3146-4996-aaa6-226282c06393)<br> <br>
+
 
    
 
