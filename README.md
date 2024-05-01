@@ -69,8 +69,24 @@ CATEGORIA: <br> <br>
 ![7_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/61242d5e-d96a-4acc-a324-944451e733cf)<br> <br>
 ![7_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/59830b36-3146-4996-aaa6-226282c06393)<br> <br>
 
+## Conexão entre MySQL e Excel atravéz do ODBC
 
-   
+### Processamento de dados no Excel:
+1. Adicionei uma coluna na tabela no excel para facilitar a exibição dos dias dos pedidos de acordo com as datas <br> <br>
+=TEXTO([@[data_pedido]];"dddd") <br> <br>
+![excel1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/8631458c-952e-4645-ad0f-c3fda5a0cccf)<br> <br>
+2. No excel não tem a funcao distinct, por isso criarei uma nova coluna na tabela para fazer isso <br> <br>
+=1/CONT.SE(B:B;[@[id_pedido]])<br> <br>
+Cada linha da tabela é referente há um tipo de pizza, sendo assim, quando tiver mais de uma pizza por pedido, terá 2 linhas de codigo para o mesmo pedido.<br> <br>
+A formula faz a contagem de acordo com o numero de vezes que o numero aparece na coluna id_pedido e dividinho 1 pela formula, recebemos os valores para ocasionar 1 unico pedido.<br> <br>
+![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/7bcf398b-d528-4c0e-b8d4-328f4a42d032)
+![image](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/5e567675-7b9a-409f-b7f2-ada428db05ba)
+
+
+
+
+
+
 
 
 
