@@ -51,7 +51,7 @@ CATEGORIA: <br> <br>
 ![q_p_por_dia_semana](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/1e548d36-5ff0-43fc-b1b9-278e86c72861) <br> <br>
 ![p_por_dia_semana_r](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/248bcd24-5b35-4cc2-a566-9a0e82821931)<br> <br>
 2. Horario dos Pedidos<br> <br>
-![2_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/4fe0fda7-823b-4da6-9106-357788d017d4)<br> <br>
+![2_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/ef348cd0-b997-427c-819f-01134b3ef3cb)<br> <br>
 ![2_2](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/03deb8c3-1b35-42f3-9e4c-a1b6870e2b80)<br> <br>
 3. Porcentagem de Vendas por categoria de pizza durante os meses<br> <br>
 ![3_1](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/016a6f9d-8f61-47b5-a931-983fae62d539)<br> <br>
