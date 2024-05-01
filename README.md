@@ -45,6 +45,13 @@ CATEGORIA: <br> <br>
 ![query_pizzaporder](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/bae93169-d87e-4a68-b6ec-0af7bc077674)
 ![result_pizzaporder](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/abff65da-08a8-4498-9796-b20ecdc6fb5b)
 
+### Insights 
+
+1. Pedidos por dia da semana <br> <br>
+![q_p_por_dia_semana](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/1e548d36-5ff0-43fc-b1b9-278e86c72861) <br> <br>
+![p_por_dia_semana_r](https://github.com/zVitor-Emanuel/PizzaSalesAnalysis/assets/148022061/248bcd24-5b35-4cc2-a566-9a0e82821931)<br> <br>
+
+   
 
 
 
